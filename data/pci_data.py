@@ -594,6 +594,7 @@ class nvidia_ids:
         0x1430,	# GM206GL [Quadro M2000]
         0x1431,	# GM206GL [Tesla M4]
         0x1436,	# GM206GLM [Quadro M2200 Mobile]
+        0x17c2, # GM200 [GeForce GTX TITAN X]
     ]
 
     pascal_ids = [
